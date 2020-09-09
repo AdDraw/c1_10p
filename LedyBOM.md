@@ -1,6 +1,6 @@
 ## Lista materiałów do Ledów
 - uKontroler : Powinno mieć wystarczającą ilość pinów aby wysterować 10-12 ledów + silniki + odtwarzanie dźwięku + sterowanie głową
-  - Arduino
+  - Arduino - proste do programowania, DUUUŻO gotowych bibliotek
     - małe arduino: `Arduino NANO Every`
       - Plusy: małe Minusy: niemożność użycia shieldów
       - link do kupienia: 
@@ -60,3 +60,6 @@
   - możliwe, że trzeba będzie kupić na większe Moce tak samo jak z Rezystorami
 - Kondensatory
   - Na razie nie widzę potrzeby, możnaby wpiąć, żeby filtrować prąd wchodzący do uKontrolera (natomiast jako, że będzie to DC, ponieważ zasilanie będzie z akumulatora więc jakichś przepięć na sieci prawdopodobnie nie będzie)
+- Sterownik/ Odbiornik do sterowania kontrolerem
+  - da się kupić proste odbiorniki RF
+  - najczęściej używają SPI -> 4 piny -> 4 piny mniej z Arduino
