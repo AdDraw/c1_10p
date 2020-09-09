@@ -1,9 +1,47 @@
 ## Lista materiałów do Ledów
-- uKontroler
-  - Arduino NANO Every / coś większego aby wystarczyło pinów i pamięci na program
+- uKontroler : Powinno mieć wystarczającą ilość pinów aby wysterować 10-12 ledów + silniki + odtwarzanie dźwięku + sterowanie głową
+  - Arduino
+    - małe arduino: `Arduino NANO Every`
+      - Plusy: małe Minusy: niemożność użycia shieldów
+      - link do kupienia: 
+        - BOTLAND: https://botland.com.pl/pl/arduino-seria-nano-oryginalne-plytki/14760-arduino-nano-every-abx00028-7630049201477.html
+      - Cechy:
+        - Napięcie zasilania: od 6 V do 21 V
+        - Mikrokontroler: ATMega4809
+        - Taktowanie: 20 MHz
+        - Pamięć Flash: 48 kB
+        - Pamięć SRAM 6 kB
+        - Pamięć EEPROM 256 B
+        - Piny cyfrowe: 14
+        - Piny PWM: 6
+        - Piny analogowe: 8
+        - Gniazdo microUSB 
+        - Interfejsy: GPIO, SPI, I2C, USART, PWM
+        - Przetworniki: ADC, DAC
+        - Wymiary: 45 x 18 mm
+    - większe? arduino: `Arduino Uno Rev3` **Nie ma większej ilości wyjść niestety**
+      - Bardzo modularne: Są moduły/nakładki/shieldy, które pozwalają naprzykład podłączyć kartę SD i silniki
+      - link do kupienia:
+        - BOTLAND: https://botland.com.pl/pl/arduino-seria-nano-oryginalne-plytki/14760-arduino-nano-every-abx00028-7630049201477.html
+      - Cechy:
+        - Model: Arduino Uno
+        - Mikrokontroler: ATmega328
+        - Maksymalna częstotliwość zegara: 16 MHz
+        - Pamięć SRAM: 2 kB
+        - Pamięć Flash: 32 kB (5 kB zarezerwowane dla bootloadera)
+        - Pamięć EEPROM: 1 kB
+        - Porty I/O: 14
+        - Wyjścia PWM: 6
+        - Ilość wejść analogowych: 6 (kanały przetwornika A/C o rozdzielczości 10 bitów)
+        - Interfejsy szeregowe: UART, SPI, I2C
+        - Zewnętrzne przerwania
+        - Podłączona dioda LED na pinie 13
+        - Gniazdo USB A do programowania
+        - Złącze DC 5,5 x 2,1 mm do zasilania
+        - Arduino Uno Rev3 - Wymiary: 68,6 x 53,4 mm
   - Przydatny byłby wbudowany BLE / Radiówka
   - jeżeli ma to być modularne to może serio `Arduino Uno Rev3` po prostu kupić
-    - napewno da się do tego załatwić Bluetooth, Głośniczek itp
+  - napewno da się do tego załatwić Bluetooth, Głośniczek itp
   - fajnie by było załatwić 32b mikroprocek
 - Ledy
   - Czerwone 8mm, 20mA max, 2-2.19 V
