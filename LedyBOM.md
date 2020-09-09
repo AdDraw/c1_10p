@@ -1,0 +1,24 @@
+## Lista materiałów do Ledów
+- uKontroler
+  - Arduino NANO Every / coś większego aby wystarczyło pinów i pamięci na program
+  - Przydatny byłby wbudowany BLE / Radiówka
+  - jeżeli ma to być modularne to może serio `Arduino Uno Rev3` po prostu kupić
+    - napewno da się do tego załatwić Bluetooth, Głośniczek itp
+  - fajnie by było załatwić 32b mikroprocek
+- Ledy
+  - Czerwone 8mm, 20mA max, 2-2.19 V
+- Rezystory 
+  - Trzeba kupić zestaw ! 
+  - Gdy kupimy zestaw to będziemy mieć większość, których chcemy, chyba, że trzeba będzie pójść w Wysokie Watty
+- Przetwornica napięcia
+  - żeby móc podłączać różne akumulatory z różnymi napięciami rzecz niezbędna
+  - max input V: 50V
+  - output: 5V, 12V ciężko stwierdzić jaki będzie potrzebny do głośników / silników
+- Płytka uniwersalna
+  - Tak, bo kiedyś będziemy to chcieli to przenieść ze stykówki i włożyć do Choppera
+- Tranzystory 
+  - Jo, aby zdjąć obciążenie prądowe z uKontrolera
+  - Bipolarki NPN 0,1 A do ledów i może innych urządzeń z półki do 0,1 A 
+  - możliwe, że trzeba będzie kupić na większe Moce tak samo jak z Rezystorami
+- Kondensatory
+  - Na razie nie widzę potrzeby, możnaby wpiąć, żeby filtrować prąd wchodzący do uKontrolera (natomiast jako, że będzie to DC, ponieważ zasilanie będzie z akumulatora więc jakichś przepięć na sieci prawdopodobnie nie będzie)
