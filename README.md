@@ -19,3 +19,4 @@ C1_10P robot SW and HW
   - BlueTooth - prawdopodobnie nie 
   - Fale Radiowe - prawdopodobnie istnieje jakiś układ, który to wykonuje do kupienia (jako, że droniarze napewno z nich korzystają)
 
+asd
