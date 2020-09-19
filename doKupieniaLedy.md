@@ -1,0 +1,11 @@
+- [ ] [Arduino](https://botland.com.pl/pl/arduino-moduly-glowne/1060-arduino-uno-rev3-a000066-8058333490090.html)
+- [ ] [Rezystory](https://botland.com.pl/pl/zestawy-rezystorow/813-zestaw-rezystorow-tht-14w-opisany-2640szt-5903351241076.html) (na zapas od razu) x1
+- [ ] [Przetwornica StepUPStepDown](https://botland.com.pl/pl/przetwornice-step-up-step-down/1255-s7v8a-przetwornica-step-upstep-down-25-8v-1a-pololu-2118.html) x1
+- [ ] Płytki Uniwersalne
+  - [ ] [30mmx70mm](https://botland.com.pl/pl/plytki-uniwersalne/2715-plytka-uniwersalna-dwustronna-30x70mm.html) x1
+  - [ ] [40mmx60mm](https://botland.com.pl/pl/plytki-uniwersalne/2744-plytka-uniwersalna-dwustronna-40x60mm.html) x1
+  - [ ] [50mmx70mm](https://botland.com.pl/pl/plytki-uniwersalne/2745-plytka-uniwersalna-dwustronna-50x70mm.html) x1
+- [ ] [Przewody](https://botland.com.pl/pl/przewody-polaczeniowe/1021-zestaw-przewodow-polaczeniowych-zensko-zenskie-20cm-40szt.html) x1
+- [ ] [Ledy czerwone 8mm](https://botland.com.pl/pl/diody-led/4538-dioda-led-8mm-czerwona-10szt.html) x2
+- [ ] [Tranzystory Bipolarne NPN](https://botland.com.pl/pl/tranzystory-bipolarne/254-tranzystor-bipolarny-npn-bc547b-50v01a-5szt.html) x2 zestawy (chcemy 10 sztuk)
+- [ ] [Stabilizator Zasilania](https://botland.com.pl/pl/regulatory-napiecia/81-stabilizator-5v-l7805abv-tht-to220.html) x1
